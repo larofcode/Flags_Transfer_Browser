@@ -1,4 +1,4 @@
-# Flags_Transfer_Browser
+# Flags_Transfer_Browser V.1
 ПЕРЕНОС CHROME FLAGS - FLAGS BROWSER ALL
 ====================
 
